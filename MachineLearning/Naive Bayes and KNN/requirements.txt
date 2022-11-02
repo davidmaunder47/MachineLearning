@@ -1,0 +1,7 @@
+pytest
+numpy
+sklean
+matplot.lib
+os
+time
+pytest
